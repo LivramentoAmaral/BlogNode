@@ -1,5 +1,5 @@
 # BlogNode
-## Aprendendo Node
+## Aprendendo NodeJs
 
 ### banco de dados com Mongo db
 
